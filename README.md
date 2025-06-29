@@ -18,7 +18,7 @@ Configure and test basic firewall rules using Windows Firewall / UFW.
 
 ## 📁 Files:
 - README.md (this file)
-- screenshots/
+- screenshots/ (https://github.com/zabi-k786/Basic-Firewall-Configuration/blob/main/Windows%20Defender%20Firewall%209.png)
 
 ## 🔗 Concepts Covered:
 - Port blocking & allowing
